@@ -20,3 +20,15 @@ overall efficiency of operations of the agency.
 
 Therefore, we will help to manage the large volume of 311 complaints they are receiving every
 year.
+
+
+**The answers to the following questions will be supported by data and analytics:**
+1. Which type of complaint should the Department of Housing Preservation and
+Development of New York City focus on first?  <br />
+2. Should the Department of Housing Preservation and Development of New York City focus
+on any particular set of boroughs, ZIP codes, or streets (where the complaints are severe)
+for the most important types of complaints?  <br />
+3. Do the most important types of complaints have an obvious relationship with any
+particular characteristic or characteristics of the houses or buildings?  <br />
+4. Can a predictive model be built for a future prediction of the possibility of complaints of
+the type that you identified as the most important types of complaints?
