@@ -22,7 +22,7 @@ Therefore, we will help to manage the large volume of 311 complaints they are re
 year.
 
 
-**The answers to the following questions will be supported by data and analytics:**
+### The answers to the following questions will be supported by data and analytics:
 1. Which type of complaint should the Department of Housing Preservation and
 Development of New York City focus on first?  <br />
 2. Should the Department of Housing Preservation and Development of New York City focus
