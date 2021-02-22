@@ -32,3 +32,7 @@ for the most important types of complaints?  <br />
 particular characteristic or characteristics of the houses or buildings?  <br />
 4. Can a predictive model be built for a future prediction of the possibility of complaints of
 the type that you identified as the most important types of complaints?
+
+
+For further details about the data please visit the Department of Housing Preservation and Development of New York City: 
+https://www1.nyc.gov/site/hpd/index.page 
