@@ -8,7 +8,7 @@ https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page
 
 
 ### Problem Statement
-The people of New Yorker use the 311 system to report complaints about the non-emergency
+The people of New York use the 311 system to report complaints about the non-emergency
 problems to local authorities. Various agencies in New York are assigned these problems. The
 Department of Housing Preservation and Development of New York City is the agency that
 processes 311 complaints that are related to housing and buildings.
