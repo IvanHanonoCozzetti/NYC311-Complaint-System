@@ -34,5 +34,5 @@ particular characteristic or characteristics of the houses or buildings?  <br />
 the type that you identified as the most important types of complaints?
 
 
-For further details about the data please visit the *Department of Housing Preservation and Development of NYC*: <br />
+**For further details about the data please visit the *Department of Housing Preservation and Development of NYC*: <br />
 https://www1.nyc.gov/site/hpd/index.page 
